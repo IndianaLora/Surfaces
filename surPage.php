@@ -9,7 +9,7 @@
   <title>Document</title>
 </head>
 
-<body class="pokelist">
+<body>
   <?php
   //////////////////si reinicio la pagina se repite el ultimo array en la lista de arrays
   include('../Surface/boots/sheader.php');
