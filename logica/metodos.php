@@ -2,25 +2,27 @@
 class metodos
 {
     
-       public function activarUsuario()
+     public function activarUsuario()
     {
-        $services = new email();
+            
         $service = new Rdatabase("./database");
         if (!empty($_POST["nombre"]) && !empty($_POST["apellido"]) && !empty($_POST["correo"]) && !empty($_POST["usuario"]) && !empty($_POST["contrasena"])) { //Verificamos que todos los elementos esten
-
+            $to = $_POST["correo"];
+            $subject = "Activa tu cuenta de surface";
+            $message = "Dale click en el link para activar ";
+       
             $usuario = new usuario();
 
             $usuario->InicializeData(0, $_POST["nombre"], $_POST["apellido"], $_POST["correo"], $_POST["usuario"], $_FILES["foto"], $_POST["contrasena"]);
-
-            $service->Add($usuario);
-            $to = $_POST["correo"];
-
-            $subject = "Activa tu cuenta de surface";
-
-            $message = "Dale click en el link para activar ";
-
-            mail($to,$subject,$message);
+            
+            if (filter_var($to,FILTER_VALIDATE_EMAIL)) {
+                $service->Add($usuario);
+                mail($to,$subject,$message);
             header("location:/surface/index.php");
+            }else{
+                echo "Email incorrecto intenta de nuevo";
+            }
+            
         }
     }
       
