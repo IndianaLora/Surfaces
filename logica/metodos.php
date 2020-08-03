@@ -9,7 +9,7 @@ class metodos
         if (!empty($_POST["nombre"]) && !empty($_POST["apellido"]) && !empty($_POST["correo"]) && !empty($_POST["usuario"]) && !empty($_POST["contrasena"])) { //Verificamos que todos los elementos esten
             $to = $_POST["correo"];
             $subject = "Activa tu cuenta de surface";
-            $message = "Dale click en el link para activar ";
+            $message = "Su cuenta ha sido activado  ";
        
             $usuario = new usuario();
 
