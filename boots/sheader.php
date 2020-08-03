@@ -16,14 +16,6 @@
       </li>
     </ul>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="publicaciones.php">Publicaciones<span class="sr-only">(current)</span></a>
-      </li>
-    
-      </li>
-    </ul>
-    
    <a href="logout.php" class="text-white">(Cerrar session)</a></li>
   </div>
   </div>
