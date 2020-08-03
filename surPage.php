@@ -76,6 +76,7 @@
 
   </nav>
   <!-- esto no funciona -->
+  <div class="publicaciones">
   <?php if ($foto == "" || $foto == 'Array' || $foto == null) : ?>
     <img style="border: 5px solid grey;" src="<?php echo "../surface/img/usuario/default.jpg" ?>" width="160px" height="200px" aria-label="placeholder:Thumbnail">
   <?php else : ?>
@@ -93,10 +94,27 @@
       </div>
     <?php endif; ?>
   <?php endforeach; ?>
+  
+  <?php foreach ($listPublicaciones as $value) : ?>
+    <?php if ($value->foto == "" || $foto == 'Array' || $value->foto == null) : ?>
+    <img style="border: 5px solid grey;" src="<?php echo "../surface/img/usuario/default.jpg" ?>" width="160px" height="200px" aria-label="placeholder:Thumbnail">
+  <?php else : ?>
+    <img style="border: 5px solid grey;" src="<?php echo $foto; ?>" width="160px" height="200px" aria-label="placeholder:Thumbnail">
+  <?php endif ?>
+  <h4><?php echo $nombre; ?></h4>
+      <div class="card-body">
+        <h3 class="card-text"><?php echo $value->titulo; ?></h3>
+        <p class="card-text"><?php echo $value->pensamiento; ?></p>
+
+        <td><a href="editar.php?id=<?php echo $value->idUsuario; ?>" class="btn btn-info">editar</a></td>
+        <td><a href="delete.php?eliminarId=<?php echo $value->idUsuario; ?>" class="btn btn-danger">Borrar</a></td>
+      </div>
+    
+  <?php endforeach; ?>
 
   </div>
   </div>
-
+</div>
 </body>
 <?php
 include('../Surface/boots/footer.php');
