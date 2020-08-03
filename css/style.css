@@ -1,0 +1,39 @@
+*{
+  font-family: font-effect-anaglyph;
+ 
+}
+#footer {
+  background-color: rgb(155, 41, 121);
+}
+#header {
+  background-color: rgb(155, 41, 121);
+}
+h1{
+  font-family: 'Tangerine', serif;
+  text-shadow: 4px 4px 4px #aaa;
+}
+#surface{
+  font-family: 'Tangerine', serif;
+  font-size: 100px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+#trans{
+    margin-bottom: 360px;
+}
+#form {
+  margin-top: 50px;
+  margin-bottom: 120px;
+ 
+  margin-left: 550px;
+ 
+}
+.inicio-session{
+ 
+  margin: 0 auto;
+  width: 550px;
+  height: 500px;
+  padding: 10px;
+  margin-top: 100px;
+  
+}
