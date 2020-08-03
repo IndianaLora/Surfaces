@@ -4,6 +4,7 @@ class metodos
     
     public function getUsuario()
     {
+        $services= new email();
         $service= new Rdatabase("./database");
         if (!empty($_POST["nombre"]) && !empty($_POST["apellido"]) && !empty($_POST["correo"]) && !empty($_POST["usuario"]) && !empty($_POST["contrasena"])) { //Verificamos que todos los elementos esten
            
@@ -12,8 +13,8 @@ class metodos
             $usuario->InicializeData(0,$_POST["nombre"],$_POST["apellido"], $_POST["correo"], $_POST["usuario"],$_FILES["foto"],$_POST["contrasena"]);
 
             $service->Add($usuario);
-
-            header("location:/surface/surPage.php");
+            $services->getEmail();
+            header("location:/surface/index.php");
         }
     }
       
