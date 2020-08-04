@@ -1,0 +1,551 @@
+20/08/03 17:49:04 ** --- MESSAGE BEGIN ---
+20/08/03 17:49:04 ** To: indianabloragvwdn@gmail.com
+20/08/03 17:49:04 ** Subject: Prueba
+20/08/03 17:49:04 ** From: indianabloragvwdn@gmail.com
+20/08/03 17:49:04 ** 
+20/08/03 17:49:04 ** activa
+20/08/03 17:49:04 ** --- MESSAGE END ---
+20/08/03 17:49:05 ** Connecting to smtp.gmail.com:587
+20/08/03 17:49:05 ** Connected.
+20/08/03 17:49:05 << 220 smtp.gmail.com ESMTP h20sm20325439qkk.79 - gsmtp<EOL>
+20/08/03 17:49:05 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:49:05 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:49:05 ** Authenticating as indianabloragvwdn@gmail.com
+20/08/03 17:49:05 >> STARTTLS<EOL>
+20/08/03 17:49:05 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 17:49:05 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:49:05 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:49:05 >> AUTH LOGIN<EOL>
+20/08/03 17:49:05 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 17:49:05 >> aW5kaWFuYWJsb3JhZ3Z3ZG5AZ21haWwuY29t<EOL>
+20/08/03 17:49:05 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 17:49:05 >> bXltdXNpYzY4Kio=<EOL>
+20/08/03 17:49:06 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials h20sm20325439qkk.79 - gsmtp<EOL>
+20/08/03 17:49:06 ** Disconnecting from smtp.gmail.com:587
+20/08/03 17:49:06 ** Disconnected.
+20/08/03 17:49:06 ** Disconnected.
+20/08/03 17:49:06 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials h20sm20325439qkk.79 - gsmtp<EOL>
+20/08/03 17:49:23 ** --- MESSAGE BEGIN ---
+20/08/03 17:49:23 ** To: indianabloragvwdn@gmail.com
+20/08/03 17:49:23 ** Subject: Prueba
+20/08/03 17:49:23 ** From: indianabloragvwdn@gmail.com
+20/08/03 17:49:23 ** 
+20/08/03 17:49:23 ** activa
+20/08/03 17:49:23 ** --- MESSAGE END ---
+20/08/03 17:49:24 ** Connecting to smtp.gmail.com:587
+20/08/03 17:49:24 ** Connected.
+20/08/03 17:49:24 << 220 smtp.gmail.com ESMTP o21sm20081589qkk.94 - gsmtp<EOL>
+20/08/03 17:49:24 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:49:24 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:49:24 ** Authenticating as indianabloragvwdn@gmail.com
+20/08/03 17:49:24 >> STARTTLS<EOL>
+20/08/03 17:49:24 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 17:49:24 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:49:24 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:49:24 >> AUTH LOGIN<EOL>
+20/08/03 17:49:24 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 17:49:24 >> aW5kaWFuYWJsb3JhZ3Z3ZG5AZ21haWwuY29t<EOL>
+20/08/03 17:49:24 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 17:49:24 >> bXltdXNpYzY4Kio=<EOL>
+20/08/03 17:49:25 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials o21sm20081589qkk.94 - gsmtp<EOL>
+20/08/03 17:49:25 ** Disconnecting from smtp.gmail.com:587
+20/08/03 17:49:25 ** Disconnected.
+20/08/03 17:49:25 ** Disconnected.
+20/08/03 17:49:25 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials o21sm20081589qkk.94 - gsmtp<EOL>
+20/08/03 17:50:45 ** --- MESSAGE BEGIN ---
+20/08/03 17:50:45 ** To: indiana@ensaludybelleza.com
+20/08/03 17:50:45 ** Subject: Prueba
+20/08/03 17:50:45 ** From: indianabloragvwdn@gmail.com
+20/08/03 17:50:45 ** 
+20/08/03 17:50:45 ** activa
+20/08/03 17:50:45 ** --- MESSAGE END ---
+20/08/03 17:50:46 ** Connecting to smtp.gmail.com:587
+20/08/03 17:50:46 ** Connected.
+20/08/03 17:50:46 << 220 smtp.gmail.com ESMTP g55sm18792358qta.94 - gsmtp<EOL>
+20/08/03 17:50:46 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:50:46 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:50:46 ** Authenticating as indianabloragvwdn@gmail.com
+20/08/03 17:50:46 >> STARTTLS<EOL>
+20/08/03 17:50:46 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 17:50:46 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:50:46 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:50:46 >> AUTH LOGIN<EOL>
+20/08/03 17:50:46 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 17:50:46 >> aW5kaWFuYWJsb3JhZ3Z3ZG5AZ21haWwuY29t<EOL>
+20/08/03 17:50:46 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 17:50:46 >> bXltdXNpYzY4Kio=<EOL>
+20/08/03 17:50:47 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials g55sm18792358qta.94 - gsmtp<EOL>
+20/08/03 17:50:47 ** Disconnecting from smtp.gmail.com:587
+20/08/03 17:50:47 ** Disconnected.
+20/08/03 17:50:47 ** Disconnected.
+20/08/03 17:50:47 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials g55sm18792358qta.94 - gsmtp<EOL>
+20/08/03 17:51:28 ** --- MESSAGE BEGIN ---
+20/08/03 17:51:28 ** To: indiana@ensaludybelleza.com
+20/08/03 17:51:28 ** Subject: Prueba
+20/08/03 17:51:28 ** From: indianabloragvwdn@gmail.com
+20/08/03 17:51:28 ** 
+20/08/03 17:51:28 ** activa
+20/08/03 17:51:28 ** --- MESSAGE END ---
+20/08/03 17:51:29 ** Connecting to smtp.gmail.com:587
+20/08/03 17:51:30 ** Connected.
+20/08/03 17:51:30 << 220 smtp.gmail.com ESMTP d124sm20358416qkg.65 - gsmtp<EOL>
+20/08/03 17:51:30 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:51:30 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:51:30 ** Authenticating as indianabloragvwdn@gmail.com
+20/08/03 17:51:30 >> STARTTLS<EOL>
+20/08/03 17:51:30 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 17:51:30 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:51:30 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:51:30 >> AUTH LOGIN<EOL>
+20/08/03 17:51:30 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 17:51:30 >> aW5kaWFuYWJsb3JhZ3Z3ZG5AZ21haWwuY29t<EOL>
+20/08/03 17:51:30 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 17:51:30 >> bXltdXNpYzY4Kio=<EOL>
+20/08/03 17:51:30 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials d124sm20358416qkg.65 - gsmtp<EOL>
+20/08/03 17:51:30 ** Disconnecting from smtp.gmail.com:587
+20/08/03 17:51:30 ** Disconnected.
+20/08/03 17:51:30 ** Disconnected.
+20/08/03 17:51:30 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials d124sm20358416qkg.65 - gsmtp<EOL>
+20/08/03 17:59:14 ** --- MESSAGE BEGIN ---
+20/08/03 17:59:14 ** To: indiana@ensaludybelleza.com
+20/08/03 17:59:14 ** Subject: Prueba
+20/08/03 17:59:14 ** From: indianabloragvwdn@gmail.com
+20/08/03 17:59:14 ** 
+20/08/03 17:59:14 ** activa
+20/08/03 17:59:14 ** --- MESSAGE END ---
+20/08/03 17:59:15 ** Connecting to smtp.gmail.com:587
+20/08/03 17:59:15 ** Connected.
+20/08/03 17:59:15 << 220 smtp.gmail.com ESMTP l1sm22073451qtp.96 - gsmtp<EOL>
+20/08/03 17:59:15 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:59:15 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:59:15 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 17:59:15 >> STARTTLS<EOL>
+20/08/03 17:59:15 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 17:59:15 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 17:59:15 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 17:59:15 >> AUTH LOGIN<EOL>
+20/08/03 17:59:16 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 17:59:16 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 17:59:16 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 17:59:16 >> bXltdXNpYzY4<EOL>
+20/08/03 17:59:16 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials l1sm22073451qtp.96 - gsmtp<EOL>
+20/08/03 17:59:16 ** Disconnecting from smtp.gmail.com:587
+20/08/03 17:59:16 ** Disconnected.
+20/08/03 17:59:16 ** Disconnected.
+20/08/03 17:59:16 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials l1sm22073451qtp.96 - gsmtp<EOL>
+20/08/03 18:02:44 ** --- MESSAGE BEGIN ---
+20/08/03 18:02:44 ** To: indiana@ensaludybelleza.com
+20/08/03 18:02:44 ** Subject: Prueba
+20/08/03 18:02:44 ** From: indianabloragvwdn@gmail.com
+20/08/03 18:02:44 ** 
+20/08/03 18:02:44 ** activa
+20/08/03 18:02:44 ** --- MESSAGE END ---
+20/08/03 18:02:45 ** Connecting to smtp.gmail.com:587
+20/08/03 18:02:45 ** Connected.
+20/08/03 18:02:45 << 220 smtp.gmail.com ESMTP y5sm13705143qkc.23 - gsmtp<EOL>
+20/08/03 18:02:45 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:02:46 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:02:46 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 18:02:46 >> STARTTLS<EOL>
+20/08/03 18:02:46 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 18:02:46 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:02:46 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:02:46 >> AUTH LOGIN<EOL>
+20/08/03 18:02:46 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 18:02:46 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 18:02:46 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 18:02:46 >> bXltdXNpYzY4<EOL>
+20/08/03 18:02:46 << 235 2.7.0 Accepted<EOL>
+20/08/03 18:02:46 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:02:46 << 250 2.1.0 OK y5sm13705143qkc.23 - gsmtp<EOL>
+20/08/03 18:02:46 >> RCPT TO: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:02:46 << 250 2.1.5 OK y5sm13705143qkc.23 - gsmtp<EOL>
+20/08/03 18:02:46 >> DATA<EOL>
+20/08/03 18:02:47 << 354  Go ahead y5sm13705143qkc.23 - gsmtp<EOL>
+20/08/03 18:02:47 >> Date: Mon, 3 Aug 2020 18:02:47 -0400<EOL>
+20/08/03 18:02:47 >> To: indiana@ensaludybelleza.com<EOL>
+20/08/03 18:02:47 >> Subject: Prueba<EOL>
+20/08/03 18:02:47 >> From: indianabloragvwdn@gmail.com<EOL>
+20/08/03 18:02:47 >> <EOL>
+20/08/03 18:02:47 >> activa<EOL>
+20/08/03 18:02:47 >> .<EOL>
+20/08/03 18:02:47 << 250 2.0.0 OK  1596492168 y5sm13705143qkc.23 - gsmtp<EOL>
+20/08/03 18:02:47 >> QUIT<EOL>
+20/08/03 18:02:47 << 221 2.0.0 closing connection y5sm13705143qkc.23 - gsmtp<EOL>
+20/08/03 18:02:47 ** Disconnecting from smtp.gmail.com:587
+20/08/03 18:02:47 ** Disconnected.
+20/08/03 18:02:47 ** Disconnected.
+20/08/03 18:04:17 ** --- MESSAGE BEGIN ---
+20/08/03 18:04:17 ** To: indiana@ensaludybelleza.com
+20/08/03 18:04:17 ** Subject: Prueba de examen final
+20/08/03 18:04:17 ** From: indianabloragvwdn@gmail.com
+20/08/03 18:04:17 ** 
+20/08/03 18:04:17 ** logreasteeee
+20/08/03 18:04:17 ** --- MESSAGE END ---
+20/08/03 18:04:18 ** Connecting to smtp.gmail.com:587
+20/08/03 18:04:18 ** Connected.
+20/08/03 18:04:18 << 220 smtp.gmail.com ESMTP v45sm23923449qtc.42 - gsmtp<EOL>
+20/08/03 18:04:18 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:04:18 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:04:18 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 18:04:18 >> STARTTLS<EOL>
+20/08/03 18:04:18 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 18:04:18 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:04:18 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:04:18 >> AUTH LOGIN<EOL>
+20/08/03 18:04:18 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 18:04:18 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 18:04:18 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 18:04:18 >> bXltdXNpYzY4<EOL>
+20/08/03 18:04:19 << 235 2.7.0 Accepted<EOL>
+20/08/03 18:04:19 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:04:19 << 250 2.1.0 OK v45sm23923449qtc.42 - gsmtp<EOL>
+20/08/03 18:04:19 >> RCPT TO: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:04:19 << 250 2.1.5 OK v45sm23923449qtc.42 - gsmtp<EOL>
+20/08/03 18:04:19 >> DATA<EOL>
+20/08/03 18:04:19 << 354  Go ahead v45sm23923449qtc.42 - gsmtp<EOL>
+20/08/03 18:04:19 >> Date: Mon, 3 Aug 2020 18:04:19 -0400<EOL>
+20/08/03 18:04:19 >> To: indiana@ensaludybelleza.com<EOL>
+20/08/03 18:04:19 >> Subject: Prueba de examen final<EOL>
+20/08/03 18:04:19 >> From: indianabloragvwdn@gmail.com<EOL>
+20/08/03 18:04:19 >> <EOL>
+20/08/03 18:04:19 >> logreasteeee<EOL>
+20/08/03 18:04:19 >> .<EOL>
+20/08/03 18:04:20 << 250 2.0.0 OK  1596492261 v45sm23923449qtc.42 - gsmtp<EOL>
+20/08/03 18:04:20 >> QUIT<EOL>
+20/08/03 18:04:20 << 221 2.0.0 closing connection v45sm23923449qtc.42 - gsmtp<EOL>
+20/08/03 18:04:20 ** Disconnecting from smtp.gmail.com:587
+20/08/03 18:04:20 ** Disconnected.
+20/08/03 18:04:20 ** Disconnected.
+20/08/03 18:08:06 ** --- MESSAGE BEGIN ---
+20/08/03 18:08:06 ** To: indiana@ensaludybelleza.com
+20/08/03 18:08:06 ** Subject: Prueba de examen final
+20/08/03 18:08:06 ** From: indianabloragvwdn@gmail.com
+20/08/03 18:08:06 ** 
+20/08/03 18:08:06 ** logreasteeee
+20/08/03 18:08:06 ** --- MESSAGE END ---
+20/08/03 18:08:07 ** Connecting to smtp.gmail.com:587
+20/08/03 18:08:07 ** Connected.
+20/08/03 18:08:07 << 220 smtp.gmail.com ESMTP v14sm1319704qto.81 - gsmtp<EOL>
+20/08/03 18:08:07 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:08:08 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:08:08 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 18:08:08 >> STARTTLS<EOL>
+20/08/03 18:08:08 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 18:08:08 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:08:08 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:08:08 >> AUTH LOGIN<EOL>
+20/08/03 18:08:08 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 18:08:08 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 18:08:08 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 18:08:08 >> bXltdXNpYzY4<EOL>
+20/08/03 18:08:08 << 235 2.7.0 Accepted<EOL>
+20/08/03 18:08:08 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:08:08 << 250 2.1.0 OK v14sm1319704qto.81 - gsmtp<EOL>
+20/08/03 18:08:08 >> RCPT TO: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:08:08 << 250 2.1.5 OK v14sm1319704qto.81 - gsmtp<EOL>
+20/08/03 18:08:08 >> DATA<EOL>
+20/08/03 18:08:09 << 354  Go ahead v14sm1319704qto.81 - gsmtp<EOL>
+20/08/03 18:08:09 >> Date: Mon, 3 Aug 2020 18:08:09 -0400<EOL>
+20/08/03 18:08:09 >> To: indiana@ensaludybelleza.com<EOL>
+20/08/03 18:08:09 >> Subject: Prueba de examen final<EOL>
+20/08/03 18:08:09 >> From: indianabloragvwdn@gmail.com<EOL>
+20/08/03 18:08:09 >> <EOL>
+20/08/03 18:08:09 >> logreasteeee<EOL>
+20/08/03 18:08:09 >> .<EOL>
+20/08/03 18:08:09 << 250 2.0.0 OK  1596492490 v14sm1319704qto.81 - gsmtp<EOL>
+20/08/03 18:08:09 >> QUIT<EOL>
+20/08/03 18:08:09 << 221 2.0.0 closing connection v14sm1319704qto.81 - gsmtp<EOL>
+20/08/03 18:08:09 ** Disconnected.
+20/08/03 18:08:09 ** Disconnected.
+20/08/03 18:08:09 ** Disconnected.
+20/08/03 18:18:08 ** --- MESSAGE BEGIN ---
+20/08/03 18:18:08 ** To: indiana@ensaludybelleza.com
+20/08/03 18:18:08 ** Subject: Activa tu cuenta de surface
+20/08/03 18:18:08 ** 
+20/08/03 18:18:08 ** Dale click en el link para activar
+20/08/03 18:18:08 ** --- MESSAGE END ---
+20/08/03 18:18:09 ** Connecting to smtp.gmail.com:587
+20/08/03 18:18:10 ** Connected.
+20/08/03 18:18:10 << 220 smtp.gmail.com ESMTP l189sm20839684qke.67 - gsmtp<EOL>
+20/08/03 18:18:10 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:18:10 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:18:10 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 18:18:10 >> STARTTLS<EOL>
+20/08/03 18:18:10 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 18:18:10 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:18:10 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:18:10 >> AUTH LOGIN<EOL>
+20/08/03 18:18:10 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 18:18:10 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 18:18:10 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 18:18:10 >> bXltdXNpYzY4<EOL>
+20/08/03 18:18:11 << 235 2.7.0 Accepted<EOL>
+20/08/03 18:18:11 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:18:11 << 250 2.1.0 OK l189sm20839684qke.67 - gsmtp<EOL>
+20/08/03 18:18:11 >> RCPT TO: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:18:11 << 250 2.1.5 OK l189sm20839684qke.67 - gsmtp<EOL>
+20/08/03 18:18:11 >> DATA<EOL>
+20/08/03 18:18:11 << 354  Go ahead l189sm20839684qke.67 - gsmtp<EOL>
+20/08/03 18:18:11 >> Date: Mon, 3 Aug 2020 18:18:11 -0400<EOL>
+20/08/03 18:18:11 >> To: indiana@ensaludybelleza.com<EOL>
+20/08/03 18:18:11 >> Subject: Activa tu cuenta de surface<EOL>
+20/08/03 18:18:11 >> <EOL>
+20/08/03 18:18:11 >> Dale click en el link para activar<EOL>
+20/08/03 18:18:11 >> .<EOL>
+20/08/03 18:18:12 << 250 2.0.0 OK  1596493093 l189sm20839684qke.67 - gsmtp<EOL>
+20/08/03 18:18:12 >> QUIT<EOL>
+20/08/03 18:18:12 << 221 2.0.0 closing connection l189sm20839684qke.67 - gsmtp<EOL>
+20/08/03 18:18:12 ** Disconnecting from smtp.gmail.com:587
+20/08/03 18:18:12 ** Disconnected.
+20/08/03 18:18:12 ** Disconnected.
+20/08/03 18:38:31 ** --- MESSAGE BEGIN ---
+20/08/03 18:38:31 ** To: indiana@ensaludybelleza.com
+20/08/03 18:38:31 ** Subject: Activa tu cuenta de surface
+20/08/03 18:38:31 ** 
+20/08/03 18:38:31 ** Dale click en el link para activar 
+20/08/03 18:38:31 ** --- MESSAGE END ---
+20/08/03 18:38:32 ** Connecting to smtp.gmail.com:587
+20/08/03 18:38:33 ** Connected.
+20/08/03 18:38:33 << 220 smtp.gmail.com ESMTP x29sm24251893qtx.74 - gsmtp<EOL>
+20/08/03 18:38:33 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:38:33 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:38:33 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 18:38:33 >> STARTTLS<EOL>
+20/08/03 18:38:33 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 18:38:33 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 18:38:33 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 18:38:33 >> AUTH LOGIN<EOL>
+20/08/03 18:38:33 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 18:38:33 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 18:38:33 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 18:38:33 >> bXltdXNpYzY4<EOL>
+20/08/03 18:38:34 << 235 2.7.0 Accepted<EOL>
+20/08/03 18:38:34 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:38:34 << 250 2.1.0 OK x29sm24251893qtx.74 - gsmtp<EOL>
+20/08/03 18:38:34 >> RCPT TO: <indiana@ensaludybelleza.com><EOL>
+20/08/03 18:38:34 << 250 2.1.5 OK x29sm24251893qtx.74 - gsmtp<EOL>
+20/08/03 18:38:34 >> DATA<EOL>
+20/08/03 18:38:34 << 354  Go ahead x29sm24251893qtx.74 - gsmtp<EOL>
+20/08/03 18:38:34 >> Date: Mon, 3 Aug 2020 18:38:34 -0400<EOL>
+20/08/03 18:38:34 >> To: indiana@ensaludybelleza.com<EOL>
+20/08/03 18:38:34 >> Subject: Activa tu cuenta de surface<EOL>
+20/08/03 18:38:34 >> <EOL>
+20/08/03 18:38:34 >> Dale click en el link para activar <EOL>
+20/08/03 18:38:34 >> .<EOL>
+20/08/03 18:38:35 << 250 2.0.0 OK  1596494316 x29sm24251893qtx.74 - gsmtp<EOL>
+20/08/03 18:38:35 >> QUIT<EOL>
+20/08/03 18:38:35 << 221 2.0.0 closing connection x29sm24251893qtx.74 - gsmtp<EOL>
+20/08/03 18:38:35 ** Disconnecting from smtp.gmail.com:587
+20/08/03 18:38:35 ** Disconnected.
+20/08/03 18:38:35 ** Disconnected.
+20/08/03 19:15:47 ** --- MESSAGE BEGIN ---
+20/08/03 19:15:47 ** To: indiana
+20/08/03 19:15:47 ** Subject: Activa tu cuenta de surface
+20/08/03 19:15:47 ** 
+20/08/03 19:15:47 ** Dale click en el link para activar 
+20/08/03 19:15:47 ** --- MESSAGE END ---
+20/08/03 19:15:48 ** Connecting to smtp.gmail.com:587
+20/08/03 19:15:48 ** Connected.
+20/08/03 19:15:48 << 220 smtp.gmail.com ESMTP k11sm19338879qkk.93 - gsmtp<EOL>
+20/08/03 19:15:48 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 19:15:48 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 19:15:48 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 19:15:48 >> STARTTLS<EOL>
+20/08/03 19:15:48 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 19:15:48 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 19:15:49 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 19:15:49 >> AUTH LOGIN<EOL>
+20/08/03 19:15:49 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 19:15:49 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 19:15:49 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 19:15:49 >> bXltdXNpYzY4<EOL>
+20/08/03 19:15:49 << 235 2.7.0 Accepted<EOL>
+20/08/03 19:15:49 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 19:15:49 << 250 2.1.0 OK k11sm19338879qkk.93 - gsmtp<EOL>
+20/08/03 19:15:49 >> RCPT TO: <indiana@><EOL>
+20/08/03 19:15:49 << 553 5.1.3 The recipient address <indiana@> is not a valid RFC-5321 address. k11sm19338879qkk.93 - gsmtp<EOL>
+20/08/03 19:15:49 ** Disconnecting from smtp.gmail.com:587
+20/08/03 19:15:49 ** Disconnected.
+20/08/03 19:15:49 ** Disconnected.
+20/08/03 19:15:49 ** The recipient address <indiana@> is not a valid RFC-5321 address. k11sm19338879qkk.93 - gsmtp<EOL>
+20/08/03 19:31:31 ** --- MESSAGE BEGIN ---
+20/08/03 19:31:31 ** To: indiana
+20/08/03 19:31:31 ** Subject: Activa tu cuenta de surface
+20/08/03 19:31:31 ** 
+20/08/03 19:31:31 ** Dale click en el link para activar 
+20/08/03 19:31:31 ** --- MESSAGE END ---
+20/08/03 19:31:32 ** Connecting to smtp.gmail.com:587
+20/08/03 19:31:32 ** Connected.
+20/08/03 19:31:32 << 220 smtp.gmail.com ESMTP g4sm19999929qka.25 - gsmtp<EOL>
+20/08/03 19:31:32 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 19:31:32 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 19:31:32 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 19:31:32 >> STARTTLS<EOL>
+20/08/03 19:31:32 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 19:31:32 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 19:31:33 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 19:31:33 >> AUTH LOGIN<EOL>
+20/08/03 19:31:33 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 19:31:33 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 19:31:33 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 19:31:33 >> bXltdXNpYzY4<EOL>
+20/08/03 19:31:33 << 235 2.7.0 Accepted<EOL>
+20/08/03 19:31:33 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 19:31:33 << 250 2.1.0 OK g4sm19999929qka.25 - gsmtp<EOL>
+20/08/03 19:31:33 >> RCPT TO: <indiana@><EOL>
+20/08/03 19:31:33 << 553 5.1.3 The recipient address <indiana@> is not a valid RFC-5321 address. g4sm19999929qka.25 - gsmtp<EOL>
+20/08/03 19:31:33 ** Disconnecting from smtp.gmail.com:587
+20/08/03 19:31:33 ** Disconnected.
+20/08/03 19:31:33 ** Disconnected.
+20/08/03 19:31:33 ** The recipient address <indiana@> is not a valid RFC-5321 address. g4sm19999929qka.25 - gsmtp<EOL>
+20/08/03 19:33:21 ** --- MESSAGE BEGIN ---
+20/08/03 19:33:21 ** To: indiana
+20/08/03 19:33:21 ** Subject: Activa tu cuenta de surface
+20/08/03 19:33:21 ** 
+20/08/03 19:33:21 ** Dale click en el link para activar 
+20/08/03 19:33:21 ** --- MESSAGE END ---
+20/08/03 19:33:22 ** Connecting to smtp.gmail.com:587
+20/08/03 19:33:22 ** Connected.
+20/08/03 19:33:22 << 220 smtp.gmail.com ESMTP s184sm21994510qkf.50 - gsmtp<EOL>
+20/08/03 19:33:22 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 19:33:22 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 19:33:22 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 19:33:22 >> STARTTLS<EOL>
+20/08/03 19:33:22 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 19:33:22 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 19:33:22 << 250-smtp.gmail.com at your service, [190.167.15.157]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 19:33:22 >> AUTH LOGIN<EOL>
+20/08/03 19:33:22 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 19:33:22 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 19:33:22 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 19:33:22 >> bXltdXNpYzY4<EOL>
+20/08/03 19:33:23 << 235 2.7.0 Accepted<EOL>
+20/08/03 19:33:23 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 19:33:23 << 250 2.1.0 OK s184sm21994510qkf.50 - gsmtp<EOL>
+20/08/03 19:33:23 >> RCPT TO: <indiana@><EOL>
+20/08/03 19:33:23 << 553 5.1.3 The recipient address <indiana@> is not a valid RFC-5321 address. s184sm21994510qkf.50 - gsmtp<EOL>
+20/08/03 19:33:23 ** Disconnecting from smtp.gmail.com:587
+20/08/03 19:33:23 ** Disconnected.
+20/08/03 19:33:23 ** Disconnected.
+20/08/03 19:33:23 ** The recipient address <indiana@> is not a valid RFC-5321 address. s184sm21994510qkf.50 - gsmtp<EOL>
+20/08/03 19:59:33 ** --- MESSAGE BEGIN ---
+20/08/03 19:59:33 ** To: indianabloragvwdn@gmail.com
+20/08/03 19:59:33 ** Subject: Activa tu cuenta de surface
+20/08/03 19:59:33 ** 
+20/08/03 19:59:33 ** Su cuenta ha sido activado 
+20/08/03 19:59:33 ** --- MESSAGE END ---
+20/08/03 19:59:34 ** Connecting to smtp.gmail.com:587
+20/08/03 19:59:34 ** Connected.
+20/08/03 19:59:34 << 220 smtp.gmail.com ESMTP 3sm21983632qkm.117 - gsmtp<EOL>
+20/08/03 19:59:34 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 19:59:35 << 250-smtp.gmail.com at your service, [190.167.116.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 19:59:35 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 19:59:35 >> STARTTLS<EOL>
+20/08/03 19:59:35 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 19:59:35 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 19:59:35 << 250-smtp.gmail.com at your service, [190.167.116.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 19:59:35 >> AUTH LOGIN<EOL>
+20/08/03 19:59:35 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 19:59:35 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 19:59:35 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 19:59:35 >> bXltdXNpYzY4<EOL>
+20/08/03 19:59:35 << 235 2.7.0 Accepted<EOL>
+20/08/03 19:59:35 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 19:59:35 << 250 2.1.0 OK 3sm21983632qkm.117 - gsmtp<EOL>
+20/08/03 19:59:35 >> RCPT TO: <indianabloragvwdn@gmail.com><EOL>
+20/08/03 19:59:35 << 250 2.1.5 OK 3sm21983632qkm.117 - gsmtp<EOL>
+20/08/03 19:59:35 >> DATA<EOL>
+20/08/03 19:59:36 << 354  Go ahead 3sm21983632qkm.117 - gsmtp<EOL>
+20/08/03 19:59:36 >> Date: Mon, 3 Aug 2020 19:59:36 -0400<EOL>
+20/08/03 19:59:36 >> To: indianabloragvwdn@gmail.com<EOL>
+20/08/03 19:59:36 >> Subject: Activa tu cuenta de surface<EOL>
+20/08/03 19:59:36 >> <EOL>
+20/08/03 19:59:36 >> Su cuenta ha sido activado <EOL>
+20/08/03 19:59:36 >> .<EOL>
+20/08/03 19:59:37 << 250 2.0.0 OK  1596499178 3sm21983632qkm.117 - gsmtp<EOL>
+20/08/03 19:59:37 >> QUIT<EOL>
+20/08/03 19:59:37 << 221 2.0.0 closing connection 3sm21983632qkm.117 - gsmtp<EOL>
+20/08/03 19:59:37 ** Disconnected.
+20/08/03 19:59:37 ** Disconnected.
+20/08/03 19:59:37 ** Disconnected.
+20/08/03 20:02:19 ** --- MESSAGE BEGIN ---
+20/08/03 20:02:19 ** To: johantoribio@gmail.com
+20/08/03 20:02:19 ** Subject: Activa tu cuenta de surface
+20/08/03 20:02:19 ** 
+20/08/03 20:02:19 ** klk mi locrio
+20/08/03 20:02:19 ** --- MESSAGE END ---
+20/08/03 20:02:20 ** Connecting to smtp.gmail.com:587
+20/08/03 20:02:21 ** Connected.
+20/08/03 20:02:21 << 220 smtp.gmail.com ESMTP n90sm22821282qte.21 - gsmtp<EOL>
+20/08/03 20:02:21 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 20:02:21 << 250-smtp.gmail.com at your service, [190.167.116.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 20:02:21 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 20:02:21 >> STARTTLS<EOL>
+20/08/03 20:02:21 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 20:02:21 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 20:02:21 << 250-smtp.gmail.com at your service, [190.167.116.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 20:02:21 >> AUTH LOGIN<EOL>
+20/08/03 20:02:21 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 20:02:21 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 20:02:21 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 20:02:21 >> bXltdXNpYzY4<EOL>
+20/08/03 20:02:21 << 235 2.7.0 Accepted<EOL>
+20/08/03 20:02:21 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 20:02:21 << 250 2.1.0 OK n90sm22821282qte.21 - gsmtp<EOL>
+20/08/03 20:02:21 >> RCPT TO: <johantoribio@gmail.com><EOL>
+20/08/03 20:02:21 << 250 2.1.5 OK n90sm22821282qte.21 - gsmtp<EOL>
+20/08/03 20:02:21 >> DATA<EOL>
+20/08/03 20:02:22 << 354  Go ahead n90sm22821282qte.21 - gsmtp<EOL>
+20/08/03 20:02:22 >> Date: Mon, 3 Aug 2020 20:02:22 -0400<EOL>
+20/08/03 20:02:22 >> To: johantoribio@gmail.com<EOL>
+20/08/03 20:02:22 >> Subject: Activa tu cuenta de surface<EOL>
+20/08/03 20:02:22 >> <EOL>
+20/08/03 20:02:22 >> klk mi locrio<EOL>
+20/08/03 20:02:22 >> .<EOL>
+20/08/03 20:02:22 << 250 2.0.0 OK  1596499343 n90sm22821282qte.21 - gsmtp<EOL>
+20/08/03 20:02:22 >> QUIT<EOL>
+20/08/03 20:02:22 << 221 2.0.0 closing connection n90sm22821282qte.21 - gsmtp<EOL>
+20/08/03 20:02:22 ** Disconnecting from smtp.gmail.com:587
+20/08/03 20:02:22 ** Disconnected.
+20/08/03 20:02:22 ** Disconnected.
+20/08/03 20:05:32 ** --- MESSAGE BEGIN ---
+20/08/03 20:05:32 ** To: rubens@mariuzzo.com
+20/08/03 20:05:32 ** Subject: Activa tu cuenta de surface
+20/08/03 20:05:32 ** 
+20/08/03 20:05:32 ** maniteeeeeeeeeeee!!!!♥♥♥♥♥
+20/08/03 20:05:32 ** --- MESSAGE END ---
+20/08/03 20:05:33 ** Connecting to smtp.gmail.com:587
+20/08/03 20:05:33 ** Connected.
+20/08/03 20:05:33 << 220 smtp.gmail.com ESMTP 78sm22008546qke.81 - gsmtp<EOL>
+20/08/03 20:05:33 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 20:05:33 << 250-smtp.gmail.com at your service, [190.167.116.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 20:05:33 ** Authenticating as indiana@ensaludybelleza.com
+20/08/03 20:05:33 >> STARTTLS<EOL>
+20/08/03 20:05:33 << 220 2.0.0 Ready to start TLS<EOL>
+20/08/03 20:05:33 >> EHLO DESKTOP-KFDKCFE<EOL>
+20/08/03 20:05:34 << 250-smtp.gmail.com at your service, [190.167.116.150]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/08/03 20:05:34 >> AUTH LOGIN<EOL>
+20/08/03 20:05:34 << 334 VXNlcm5hbWU6<EOL>
+20/08/03 20:05:34 >> aW5kaWFuYUBlbnNhbHVkeWJlbGxlemEuY29t<EOL>
+20/08/03 20:05:34 << 334 UGFzc3dvcmQ6<EOL>
+20/08/03 20:05:34 >> bXltdXNpYzY4<EOL>
+20/08/03 20:05:34 << 235 2.7.0 Accepted<EOL>
+20/08/03 20:05:34 >> MAIL FROM: <indiana@ensaludybelleza.com><EOL>
+20/08/03 20:05:34 << 250 2.1.0 OK 78sm22008546qke.81 - gsmtp<EOL>
+20/08/03 20:05:34 >> RCPT TO: <rubens@mariuzzo.com><EOL>
+20/08/03 20:05:34 << 250 2.1.5 OK 78sm22008546qke.81 - gsmtp<EOL>
+20/08/03 20:05:34 >> DATA<EOL>
+20/08/03 20:05:34 << 354  Go ahead 78sm22008546qke.81 - gsmtp<EOL>
+20/08/03 20:05:34 >> Date: Mon, 3 Aug 2020 20:05:34 -0400<EOL>
+20/08/03 20:05:34 >> To: rubens@mariuzzo.com<EOL>
+20/08/03 20:05:34 >> Subject: Activa tu cuenta de surface<EOL>
+20/08/03 20:05:34 >> <EOL>
+20/08/03 20:05:34 >> maniteeeeeeeeeeee!!!!♥♥♥♥♥<EOL>
+20/08/03 20:05:34 >> .<EOL>
+20/08/03 20:05:35 << 250 2.0.0 OK  1596499536 78sm22008546qke.81 - gsmtp<EOL>
+20/08/03 20:05:35 >> QUIT<EOL>
+20/08/03 20:05:35 << 221 2.0.0 closing connection 78sm22008546qke.81 - gsmtp<EOL>
+20/08/03 20:05:35 ** Disconnecting from smtp.gmail.com:587
+20/08/03 20:05:35 ** Disconnected.
+20/08/03 20:05:35 ** Disconnected.
