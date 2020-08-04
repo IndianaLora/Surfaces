@@ -37,6 +37,8 @@ class Rdatabase implements Iregistro
               $usuario->usuario  = $row->usuario;
               $usuario->foto  = $row->foto;
               $usuario->contrasena  = $row->contrasena;
+              $usuario->usuarioStatus  = $row->usuarioStatus;
+            
               array_push($List,$usuario);
               
             }
@@ -67,7 +69,7 @@ class Rdatabase implements Iregistro
                 $usuario->usuario  = $row->usuario;
                 $usuario->foto  = $row->foto;
                 $usuario->contrasena  = $row->contrasena;
-
+                $usuario->usuarioStatus  = $row->usuarioStatus;
             }
         }
         $stmt->close();
@@ -77,8 +79,8 @@ class Rdatabase implements Iregistro
     public function Add($entity)
     {
         
-        $stmt = $this->context->db->prepare("insert into Registro(nombre,apellido,correo,usuario,foto,contrasena) Values(?,?,?,?,?,?)");
-        $stmt->bind_param("ssssss",$entity->nombre,$entity->apellido,$entity->correo,$entity->usuario,$entity->foto,$entity->contrasena);//nombre tipo region
+        $stmt = $this->context->db->prepare("insert into Registro(nombre,apellido,correo,usuario,foto,contrasena,usuarioStatus) Values(?,?,?,?,?,?,?)");
+        $stmt->bind_param("sssssss",$entity->nombre,$entity->apellido,$entity->correo,$entity->usuario,$entity->foto,$entity->contrasena,$entity->usuarioStatus);//nombre tipo region
         $stmt->execute();
         $stmt->close();
         //para retornar ultimo id
