@@ -9,7 +9,7 @@ public $correo;
 public $usuario;
 public $foto;
 public $contrasena;
-public $pensamiento;
+public $usuarioStatus;
 
 private $metodos;
 
@@ -18,7 +18,7 @@ public function __construct()
     $this->metodos = new metodos();
    
 }
-public function InicializeData($id,$nombre,$apellido,$correo,$usuario,$foto,$contrasena)
+public function InicializeData($id,$nombre,$apellido,$correo,$usuario,$foto,$contrasena,$usuarioStatus)
 {
     $this->id=$id;
     $this->nombre=$nombre;
@@ -27,6 +27,7 @@ public function InicializeData($id,$nombre,$apellido,$correo,$usuario,$foto,$con
     $this->usuario=$usuario;
     $this->foto=$foto;
     $this->contrasena=$contrasena;
+    $this->usuarioStatus=$usuarioStatus;
 }
 
 public function set($data)
