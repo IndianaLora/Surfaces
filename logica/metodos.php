@@ -1,33 +1,37 @@
 <?php
+
 class metodos
 {
-    
-     public function activarUsuario()
+
+    public function activarUsuario()
     {
             
         $service = new Rdatabase("./database");
         if (!empty($_POST["nombre"]) && !empty($_POST["apellido"]) && !empty($_POST["correo"]) && !empty($_POST["usuario"]) && !empty($_POST["contrasena"])) { //Verificamos que todos los elementos esten
+            
+            $usuarioStatus="Activado";
             $to = $_POST["correo"];
             $subject = "Activa tu cuenta de surface";
-            $message = "Su cuenta ha sido activado  ";
+            $message = "Su cuenta ha sido activada ";
        
             $usuario = new usuario();
 
-            $usuario->InicializeData(0, $_POST["nombre"], $_POST["apellido"], $_POST["correo"], $_POST["usuario"], $_FILES["foto"], $_POST["contrasena"]);
+            $usuario->InicializeData(0, $_POST["nombre"], $_POST["apellido"], $_POST["correo"], $_POST["usuario"], $_FILES["foto"], $_POST["contrasena"],$usuarioStatus);
             
             if (filter_var($to,FILTER_VALIDATE_EMAIL)) {
                 $service->Add($usuario);
                 mail($to,$subject,$message);
             header("location:/surface/index.php");
-            }else{
+            }
+            else{
                 echo "Email incorrecto intenta de nuevo";
             }
             
         }
     }
-      
- 
-   
+
+
+
     public function ultimaPosicion($lista)
     {
         $cuentaElementos = count($lista); //Haces una lista que cuente todos los elementos
@@ -40,7 +44,7 @@ class metodos
         return time() + 60 * 60 * 24 * 30;
     }
     //Analizar esto 
-    
+
     //Para obtener la ultima posicion en un array
 
 
@@ -69,7 +73,7 @@ class metodos
         return $edit;
     }
     public function uploadImage($directory, $nombre, $tmpFile, $type, $size)
-    {  
+    {
         $isSucces = false;
         if (($type == "image/gif")
             || ($type == "image/jpeg")
@@ -85,7 +89,7 @@ class metodos
                     if (file_exists($nombre)) {
                         unlink($nombre);
                     }
-                    $this->uploadFile($directory ,$nombre, $tmpFile);
+                    $this->uploadFile($directory, $nombre, $tmpFile);
                     $isSucces = true;
                 }
             } else {
@@ -108,6 +112,3 @@ class metodos
         move_uploaded_file($tmpFile, $nombre);
     }
 }
-
-
-?>
